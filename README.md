@@ -37,7 +37,7 @@ How to build a movie search app using React Hooks 프로젝트가 있습니다. 
    ```
 
 3. 이 프로젝트를 제가 어떻게 하면 바로 실행해보고 테스트 해볼 수 있을지 README.md에 적어주세요.
-   > 1)https://github.com/Myunggyun/ticketplace에 접속을 한다.\
+   > 1)https://github.com/Myunggyun/ticketplace 에 접속을 한다.\
    > 2)code를 clone 한다.\
    > 3)command line에서 ~/ticketplace$ npm install을 한다.\
    > 4)command line에서 ~/ticketplace$ npm start로 실행한다.
